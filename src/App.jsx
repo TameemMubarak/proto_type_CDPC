@@ -13,6 +13,8 @@ const App = () => {
     <div>
       <Navbar/>
       <Hero/>
+      {/* this is is file uploades after build the projecct in react js
+      */}
       <div className="container">
         <Title sub='our programs' main='What We Offer' />
         <Program/>
