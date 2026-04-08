@@ -1,4 +1,5 @@
 .footer{
+    /* for margin alignment */
     margin: 10px auto;
     display: flex;
     align-items: center;
