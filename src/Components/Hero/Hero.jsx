@@ -4,6 +4,7 @@ import xplore from '../../assets/dark-arrow.png'
 
 const Hero = () => {
   return (
+    // the fragments concept <> ... </> for single DOM Tree Model
     <>
     <div className='hero'>
       <div className="hero-text">
