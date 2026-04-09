@@ -10,7 +10,7 @@ import whitearow from '../../assets/white-arrow.png'
 
 const Campus = () => {
   return (
-   // this is campus component
+   // this is campus component in jsx 
     <div className='campus'>
       <div className="gallery">
         <img src={p1} alt="" />
